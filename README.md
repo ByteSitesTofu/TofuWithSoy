@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @TofuWithSoy
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML/CSS/Javascript
+# 👋 Hello World!
 
-<!---
-TofuWithSoy/TofuWithSoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm TofuWithSoy, a web enthusiast on a journey to code beautiful and functional things. 🚀
+
+- 🌐 Building the web with HTML, CSS, and JavaScript.
+- ⚛️ Leveling up my React skills.
+- 📚 Learning something new every day.
+
+Let's code together! 😄
